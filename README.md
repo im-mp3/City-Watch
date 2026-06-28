@@ -1,1 +1,1 @@
-# City-Watch - FutureHacks Hackathon 2026
+# City Watch - FutureHacks Hackathon 2026
